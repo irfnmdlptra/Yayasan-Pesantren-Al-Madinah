@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: #008374;
+  --color-primary: #0891b2;
   --color-secondary: #f85a40;
 }
 
@@ -238,7 +238,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #00796b;
+  background: #06b6d4;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -1721,7 +1721,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #009282;
+  background-color: #06b6d4;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -1870,7 +1870,7 @@ section {
 .hero {
   width: 100%;
   position: relative;
-  background:url(../image/gedung\ \(1\).jpg);
+  background:url(https://source.unsplash.com/1226x655?islam);
   background-position: center;
   background-size: cover;
   padding: 60px 0 0 0;
@@ -1965,7 +1965,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #008d7d;
+  background: #0ea5e9;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -1997,7 +1997,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #009786;
+  background: #38bdf8;
 }
 
 .hero .icon-box:hover .title a,
